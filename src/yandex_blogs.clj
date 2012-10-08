@@ -1,0 +1,1 @@
+(ns yandex-blogs)
