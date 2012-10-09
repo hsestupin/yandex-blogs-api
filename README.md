@@ -1,3 +1,5 @@
+[![endorse](http://api.coderwall.com/hsestupin/endorsecount.png)](http://coderwall.com/hsestupin)
+
 # clojure-yandex-blogs
 
 Clojure implementation of yandex-blogs api. See also http://api.yandex.ru/blogs/doc/
