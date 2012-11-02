@@ -1,6 +1,6 @@
-(ns clojure-yandex-blogs.test.core
-  (:use [clojure-yandex-blogs.core])
+(ns yandex-blogs.test.core
+  (:use [yandex-blogs.core])
   (:use [clojure.test]))
 
 (deftest replace-me ;; FIXME: write
-  (is false "No tests have been written."))
+  (is false "Вот это да."))
